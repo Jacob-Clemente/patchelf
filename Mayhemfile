@@ -1,0 +1,5 @@
+project: jacob-clemente/patchelf
+target: patchelf
+
+cmds:
+  - cmd: /patchelf @@
