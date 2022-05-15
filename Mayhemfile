@@ -1,4 +1,4 @@
-project: jacob-clemente/patchelf
+project: patchelf
 target: patchelf
 
 cmds:
